@@ -1,0 +1,4 @@
+JobsProcessed 2
+PagesPrinted 25
+QueueSize 1
+thesis report 20 0
